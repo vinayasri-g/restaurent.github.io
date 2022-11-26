@@ -1,0 +1,63 @@
+.imaggi{height:80px;
+width:190px;}
+.imaggi1{height: 200px;
+width: 130px;}
+.buttonstyle{background-color:brown;
+border-radius: 5px;
+width:120px;
+height:30px;
+padding:0px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
+.buttonstyle:hover{background-color:white;
+color:burlywood}
+#go{font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 15px;
+color:black;
+background-color: white;}
+#go:hover{background-color:brown;
+color:white;}
+.bgimg{background-image: url("https://png.pngtree.com/background/20210709/original/pngtree-coffee-background-in-coffee-restaurant-picture-image_905315.jpg");
+background-size: cover;
+height: 80vh;}
+.headstyle{font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color:white;
+padding-top: 170px;}
+.carding{border-style: groove;
+border-color: brown;
+background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+border-radius: 10px;
+margin: 5px;
+padding:0px;}
+.imaggi2{height: 100px;
+width:130px}
+.headline2{font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 25px;
+margin-left:15px;
+text-align: center;
+}
+.paraline2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:28px;
+    color: brown;
+    font-size: 16px;
+}
+.row{background-image:radial-gradient(white,rgb(90, 40, 40));
+padding-left: 60px;}
+body{background-image: radial-gradient(rgb(84, 21, 21),white);}
+.headline1{font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 25px;
+color: white;
+margin-top: 9px;}
+.paraline3{font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 15px;
+color:white;
+}
